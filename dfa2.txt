@@ -1,0 +1,8 @@
+NumStates 4
+Start 0
+Accept 3
+Q  a  b
+0  1  2
+1  0  3
+2  3  0
+3  2  1

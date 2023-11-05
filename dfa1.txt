@@ -1,0 +1,6 @@
+NumStates 2
+Start 0
+Accept 0
+Q  a  b
+0  1  0
+1  0  1

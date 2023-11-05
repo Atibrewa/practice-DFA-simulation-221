@@ -1,0 +1,7 @@
+numStates 3
+startState 0
+acceptStates 0 1
+labels a b
+0 0 1
+1 1 2
+2 2 2
